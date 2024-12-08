@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "not_viper.gamecorruptor",
+	"name": "Game Corruptor",
+	"version": "v1.0.0",
+	"developer": "Not Viper",
+	"description": "Yes"
+}
